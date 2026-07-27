@@ -39,6 +39,11 @@
       "hardware_id": "SPX-250C-3B55-F7A4",
       "license_key": "SPACE-X-KEY-30DAY",
       "expire_date": "2026-08-27 18:00:00"
+    },
+    {
+      "hardware_id": "CXS-F28B-020C-B01D",
+      "license_key": "SPACE-X-KEY-365DAY",
+      "expire_date": "2027-08-27 18:00:00"
     }
   ]
 }
