@@ -64,6 +64,11 @@
       "hardware_id": "CXS-D395-C7ED-2A6F",
       "license_key": "CXS-KEY-2011",
       "expire_date": "2026-08-13 23:59:59"
+    },
+    {
+      "hardware_id": "CXS-D395-C7ED-2A6F",
+      "license_key": "CXS-KEY-YOU",
+      "expire_date": "2026-08-28 23:59:59"
     }
   ]
 }
