@@ -74,6 +74,11 @@
       "hardware_id": "CXS-3248-7D55-DE2E",
       "license_key": "CXS-KEY-FREE",
       "expire_date": "2026-08-30 23:59:59"
+    },
+    {
+      "hardware_id": "CXS-0DF8-6443-4220",
+      "license_key": "CXS-KEY-2026",
+      "expire_date": "2026-07-31 22:39:03"
     }
   ]
 }
