@@ -79,6 +79,11 @@
       "hardware_id": "CXS-B876-2988-09A6",
       "license_key": "CXS-KEY-PAINGZIN",
       "expire_date": "2026-08-31 23:59:59"
+    },
+    {
+      "hardware_id": "CXS-166C-78F5-8BB2",
+      "license_key": "ZAWZAW2008",
+      "expire_date": "2099-12-31 23:59:59"
     }
   ]
 }
