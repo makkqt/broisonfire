@@ -144,6 +144,11 @@
       "hardware_id": "CXS-6C05-395F-75B2",
       "license_key": "CXS-KEY-2036",
       "expire_date": "1 day"
+    },
+    {
+      "hardware_id": "CXS-B17-814A-1229",
+      "license_key": "CXS-KEY-202",
+      "expire_date": "2026-09-04 23:59:59"
     }
   ]
 }
