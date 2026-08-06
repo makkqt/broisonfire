@@ -144,6 +144,11 @@
       "hardware_id": "CXS-CA2A-3DDC-BF77",
       "license_key": "CXS-KEY-CLIENT",
       "expire_date": "2099-12-31 23:59:59"
+    },
+    {
+      "hardware_id": "CXS-D101-9DEC-A5A0",
+      "license_key": "CXS-KEY-CLIENT",
+      "expire_date": "2099-12-31 23:59:59"
     }
   ]
 }
