@@ -169,6 +169,11 @@
       "hardware_id": "CXS-5666-0164-55D7",
       "license_key": "CXS-KEY-NAY LIN",
       "expire_date": "2027-08-07 23:59:59"
+    },
+    {
+      "hardware_id": "CXS-D292-CC10-1CB0",
+      "license_key": "CXS-KEY-THANT SIN",
+      "expire_date": "2026-08-22 23:59:59"
     }
   ]
 }
