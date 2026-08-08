@@ -1,11 +1,6 @@
 {
   "licenses": [
     {
-      "hardware_id": "CXS-166C-78F5-8BB2",
-      "license_key": "SPACE-X-KEY-broship",
-      "expire_date": "2027-08-27 18:00:00"
-    },
-    {
       "hardware_id": "CXS-EA2B-A146-28CA",
       "license_key": "SPACE-X-KEY-tothebone",
       "expire_date": "2026-08-27 18:00:00"
