@@ -184,6 +184,11 @@
       "hardware_id": "CXS-8560-CD83-E3A0",
       "license_key": "CXS-KEY-2040",
       "expire_date": "2026-09-06 23:59:59"
+    },
+    {
+      "hardware_id": "CXS-C1F4-2CA6-E6D3",
+      "license_key": "CXS-KEY-WAR WAR",
+      "expire_date": "2026-08-15 23:59:59"
     }
   ]
 }
