@@ -1,11 +1,6 @@
 {
   "licenses": [
     {
-      "hardware_id": "CXS-37D8-EC1B-A76B",
-      "license_key": "CXS-KEY-2031PUPU",
-      "expire_date": "2026-09-03 23:59:59"
-    },
-    {
       "hardware_id": "CXS-6C05-395F-75B2",
       "license_key": "CXS-KEY-2034",
       "expire_date": "1 hour"
