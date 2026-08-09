@@ -9,6 +9,11 @@
       "hardware_id": "CXS-3E70-463A-9DD5",
       "license_key": "CXS-KEY-2011",
       "expire_date": "2099-12-31 23:59:59"
+    },
+    {
+      "hardware_id": "CXS-BAF8-2254-EE24",
+      "license_key": "CXS-KEY-KO HTOO",
+      "expire_date": "2099-12-31 23:59:59"
     }
   ]
 }
