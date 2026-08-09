@@ -1,11 +1,6 @@
 {
   "licenses": [
     {
-      "hardware_id": "CXS-DC91-4ABD-4176\n\nUNLIMITED",
-      "license_key": "CXS-KEY-BBBBB",
-      "expire_date": "2099-12-31 23:59:59"
-    },
-    {
       "hardware_id": "CXS-DC91-4ABD-4176",
       "license_key": "CXS-KEY-PRO",
       "expire_date": "2099-12-31 23:59:59"
