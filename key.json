@@ -4,6 +4,11 @@
       "hardware_id": "CXS-DC91-4ABD-4176",
       "license_key": "CXS-KEY-PRO",
       "expire_date": "2099-12-31 23:59:59"
+    },
+    {
+      "hardware_id": "CXS-3E70-463A-9DD5",
+      "license_key": "CXS-KEY-2011",
+      "expire_date": "2099-12-31 23:59:59"
     }
   ]
 }
