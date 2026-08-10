@@ -14,6 +14,11 @@
       "hardware_id": "CXS-BAF8-2254-EE24",
       "license_key": "CXS-KEY-KO HTOO",
       "expire_date": "2099-12-31 23:59:59"
+    },
+    {
+      "hardware_id": "CXS-EF4B-3E9C-417F",
+      "license_key": "CXS-KEY-AYE NADI",
+      "expire_date": "2026-09-09 23:59:59"
     }
   ]
 }
