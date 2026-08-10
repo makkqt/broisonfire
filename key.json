@@ -29,6 +29,11 @@
       "hardware_id": "CXS-5666-0164-55D7",
       "license_key": "CXS-KEY-KHAT CHAW",
       "expire_date": "2099-12-31 23:59:59"
+    },
+    {
+      "hardware_id": "CXS-571B-CFCB-B219",
+      "license_key": "CXS-KEY-THAR NGE",
+      "expire_date": "2099-12-31 23:59:59"
     }
   ]
 }
