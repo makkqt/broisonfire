@@ -54,6 +54,11 @@
       "hardware_id": "CXS-6D15-96A4-9B33",
       "license_key": "CXS-MASTERKEY-002",
       "expire_date": "2099-12-31 23:59:59"
+    },
+    {
+      "hardware_id": "CXS-5DB4-0CAB-53F9",
+      "license_key": "CXS-KEY-TIN",
+      "expire_date": "2099-12-31 23:59:59"
     }
   ]
 }
