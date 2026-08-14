@@ -16,11 +16,6 @@
       "expire_date": "2099-12-31 23:59:59"
     },
     {
-      "hardware_id": "CXS-0896-7FE9-0B41",
-      "license_key": "CXS-KEY-ONE",
-      "expire_date": "2026-09-10 23:59:59"
-    },
-    {
       "hardware_id": "CXS-CA2A-3DDC-BF77",
       "license_key": "CXS-MASTERKEY-001",
       "expire_date": "2099-12-31 23:59:59"
