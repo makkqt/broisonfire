@@ -74,6 +74,11 @@
       "hardware_id": "CXS-352A-9340-4854",
       "license_key": "CXS-KEY-YOYO",
       "expire_date": "2099-12-31 23:59:59"
+    },
+    {
+      "hardware_id": "CXS-D7B5-48D3-2EB1",
+      "license_key": "CXS-KEY-20177",
+      "expire_date": "2099-12-31 23:59:59"
     }
   ]
 }
